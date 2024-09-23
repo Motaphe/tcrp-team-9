@@ -14,9 +14,6 @@
 # environment variables
 .env
 
-# node modules
-/node_modules
-
 # misc
 .DS_Store
 .env.local
